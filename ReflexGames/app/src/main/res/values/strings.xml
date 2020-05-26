@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Reaction Game</string>
+    <string name="you_lose">You lost\nNumber of Tries: </string>
+    <string name="start_msg">Touch the screen to start the game.\n\nYou need to touch the right target.</string>
+</resources>
